@@ -48,14 +48,6 @@ Cloud-native AI data analyst platform translating plain-English questions on tab
 
 ---
 
-### Activity
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/40c463/raaixd" alt="Raaid Khan's GitHub Activity" width="100%" />
-</div>
-
----
-
 ### Contact
 
 - **Email**: [rexak4201@gmail.com](mailto:rexak4201@gmail.com)
