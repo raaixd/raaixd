@@ -19,13 +19,12 @@ I build production AI systems, LLM/RAG architectures, and evaluation harnesses f
 
 ### Featured Projects
 
-#### 01 / [Aletheia](https://github.com/raaixd/aletheia)
-AI-powered incident investigation system that synthesizes multi-source telemetry into an evidence graph, evaluates competing failure hypotheses through an adversarial verifier loop, and measures root-cause diagnoses against ground-truth benchmarks.  
-`Python` &bull; `LangGraph` &bull; `FastAPI` &bull; `OpenTelemetry` &bull; `Prometheus` &bull; `PostgreSQL` &bull; `Docker`
-
-#### 02 / [WeMentors AI Assistant](https://github.com/raaixd/wementorschatbot) &nbsp;<sub>[Live Demo &nearr;](https://wementors.vercel.app)</sub>
+#### 01 / [WeMentors AI Assistant](https://github.com/raaixd/wementorschatbot) &nbsp;<sub>[Live Demo &nearr;](https://wementors.vercel.app)</sub>
 Production conversational RAG assistant providing context-aware educational support. Employs contextual query rewriting, a conditional hybrid retrieval pipeline (TF-IDF lexical + Gemini embeddings), and strict response validation gates benchmarked against a 156-query test harness.  
 `Python` &bull; `FastAPI` &bull; `RAG` &bull; `Gemini` &bull; `Groq` &bull; `SQLite` &bull; `pytest` &bull; `Vercel`
+
+#### 02 / [Aletheia](https://github.com/raaixd/aletheia) AI-powered incident investigation system that synthesizes multi-source telemetry into an evidence graph, evaluates competing failure hypotheses through an adversarial verifier loop, and measures root-cause diagnoses against ground-truth benchmarks.
+`Python` &bull; `LangGraph` &bull; `FastAPI` &bull; `OpenTelemetry` &bull; `Prometheus` &bull; `PostgreSQL` &bull; `Docker`
 
 #### 03 / [VERIDEX](https://github.com/raaixd/datapilot-ai)
 Cloud-native AI data analyst platform translating plain-English questions on tabular datasets (CSV, Excel, ZIP) into executable, read-only SQL, metrics, and interactive charts. Features code-enforced SQL safety validation, schema-aware ambiguity detection, and automated data profiling.  
