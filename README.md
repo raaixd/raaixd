@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Raaid Khan — AI/ML Engineer | Data Scientist" width="100%" />
+  <img src="./assets/banner.webp" alt="Raaid Khan" width="100%" />
 </div>
 
 <br />
