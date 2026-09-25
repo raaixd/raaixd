@@ -23,7 +23,8 @@ I build production AI systems, LLM/RAG architectures, and evaluation harnesses f
 Production conversational RAG assistant providing context-aware educational support. Employs contextual query rewriting, a conditional hybrid retrieval pipeline (TF-IDF lexical + Gemini embeddings), and strict response validation gates benchmarked against a 156-query test harness.  
 `Python` &bull; `FastAPI` &bull; `RAG` &bull; `Gemini` &bull; `Groq` &bull; `SQLite` &bull; `pytest` &bull; `Vercel`
 
-#### 02 / [Aletheia](https://github.com/raaixd/aletheia) AI-powered incident investigation system that synthesizes multi-source telemetry into an evidence graph, evaluates competing failure hypotheses through an adversarial verifier loop, and measures root-cause diagnoses against ground-truth benchmarks.
+#### 02 / [Aletheia](https://github.com/raaixd/aletheia) 
+AI-powered incident investigation system that synthesizes multi-source telemetry into an evidence graph, evaluates competing failure hypotheses through an adversarial verifier loop, and measures root-cause diagnoses against ground-truth benchmarks.
 `Python` &bull; `LangGraph` &bull; `FastAPI` &bull; `OpenTelemetry` &bull; `Prometheus` &bull; `PostgreSQL` &bull; `Docker`
 
 #### 03 / [VERIDEX](https://github.com/raaixd/datapilot-ai)
