@@ -51,9 +51,7 @@ Cloud-native AI data analyst platform translating plain-English questions on tab
 ### Activity
 
 <div align="center">
-  <a href="https://github.com/raaixd">
-    <img src="https://ghchart.rshah.org/58a6ff/raaixd" alt="Raaid Khan's GitHub Activity Graph" width="100%" />
-  </a>
+  <img src="https://ghchart.rshah.org/40c463/raaixd" alt="Raaid Khan's GitHub Activity" width="100%" />
 </div>
 
 ---
