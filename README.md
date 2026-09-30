@@ -5,9 +5,7 @@
 <br />
 
 # Raaid Khan
-**AI/ML Engineer &bull; Data Scientist**
-
-I build production AI systems, LLM/RAG architectures, and evaluation harnesses focused on reliability, observability, and deterministic safety. Background spanning multi-agent incident diagnosis, automated data analysis platforms, and open-source AI evaluation tooling.
+**AI/ML Engineer &bull;**
 
 ---
 
