@@ -11,12 +11,6 @@ I build production AI systems, LLM/RAG architectures, and evaluation harnesses f
 
 ---
 
-### Currently Building
-
-- **[Aletheia](https://github.com/raaixd/aletheia)** &mdash; AI incident investigation system for software reliability. Reconstructs causal timelines from distributed telemetry (logs, OpenTelemetry traces, Prometheus metrics) into a deterministic evidence graph. Orchestrates competing diagnostic hypotheses through LangGraph agents (Investigator &rarr; Analyst &rarr; Adversarial Verifier) and benchmarks diagnoses against ground truth.
-
----
-
 ### Featured Projects
 
 #### 01 / [WeMentors AI Assistant](https://github.com/raaixd/wementorschatbot) &nbsp;<sub>[Live Demo &nearr;](https://wementors.vercel.app)</sub>
