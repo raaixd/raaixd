@@ -4,9 +4,8 @@
 
 <br />
 
-<div align="center">
-  <img src="./assets/banner.svg" alt="Raaid Khan — AI/ML Engineer | Data Scientist" width="100%" />
-</div>
+# Raaid Khan
+**AI/ML Engineer · Data Scientist**
 
 <br />
 
