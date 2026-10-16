@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/carousel.webp" alt="Glen Etive, Scotland" width="720" />
+  <img src="./assets/carousel.webp" alt="Glen Etive, Scotland" width="100%" />
 </div>
 
 <br />
